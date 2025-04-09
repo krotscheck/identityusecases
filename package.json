@@ -1,0 +1,13 @@
+{
+  "name": "OpenREST",
+  "description": "Build time tools for hugo",
+  "main": "none.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss-cli": "^11.0.0"
+  }
+}
